@@ -1,0 +1,26 @@
+.lesson {
+    width: 200px;
+    height: 100px;
+    background-color:purple;
+    
+  }
+  
+.section-blue { 
+  background-color: blue;
+  color:orange;
+    
+}
+  
+.container {
+  color: white;
+  background-color:black
+}
+
+#section-1 {
+  color:yellow
+
+}
+
+#section-6 {
+  color:yellow
+}
